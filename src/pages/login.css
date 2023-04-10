@@ -1,0 +1,30 @@
+.login-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding: 2rem;
+  }
+  
+  .login-logo {
+    margin-bottom: 2rem;
+  }
+  
+  .login-logo img {
+    width: 150px;
+    height: 150px;
+  }
+  
+  ion-item {
+    margin-bottom: 1rem;
+  }
+  
+  ion-text {
+    margin-bottom: 1rem;
+  }
+  
+  ion-button {
+    margin-top: 1rem;
+  }
+  
